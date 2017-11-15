@@ -7,7 +7,7 @@
     "require": {
         "php": ">=5.3.0",
 		"ext-soap": "*",
-        "phpxmlrpc/http": "dev-master"
+        "phpxmlrpc/core": "dev-master"
     },
     "require-dev": {
         "phpxmlrpc/debugger": "dev-master",
