@@ -1,5 +1,5 @@
 {
-    "name": "phpxmlrpc/soap",
+    "name": "phpxmlrpcng/soap",
     "description": "A php library for building soap clients and servers",
     "license": "BSD-3-Clause",
     "homepage": "http://gggeek.github.io/phpxmlrpc-soap/",
@@ -7,10 +7,10 @@
     "require": {
         "php": ">=5.3.0",
         "ext-soap": "*",
-        "phpxmlrpc/core": "dev-master"
+        "phpxmlrpcng/core": "dev-master"
     },
     "require-dev": {
-        "phpxmlrpc/debugger": "dev-master",
+        "phpxmlrpcng/debugger": "dev-master",
         "phpunit/phpunit": ">=4.0.0, <6.0.0",
         "phpunit/phpunit-selenium": "*",
         "codeclimate/php-test-reporter": "dev-master",
